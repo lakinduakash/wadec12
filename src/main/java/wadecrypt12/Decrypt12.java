@@ -135,8 +135,8 @@ public class Decrypt12 {
                 outFile = "msgstore.db";
             decrypt(args[0], args[1], outFile);
         } else {
-            System.out.println("\nWhatsApp Crypt12 Database Decrypter 1.0 Copyright (C) 2016 by TripCode");
-            System.out.println("\tUsage: java -jar decrypt12.jar key msgstore.db.crypt12 msgstore.db\n");
+            System.out.println("\nWhatsApp Crypt12 Database Decrypter 1.1 Copyright (C) 2019 by Ultimatex");
+            System.out.println("\tUsage: java -jar decrypt12.jar (key file name)key (encrypted)msgstore.db.crypt12 (output file name)msgstore.db\n");
         }
     }
 
