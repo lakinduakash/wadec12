@@ -1,4 +1,4 @@
-# crypt12 Decryptor
+# Crypt12 Decryptor
 Decrypt WhatsApp database files with the key
 
 ### Usage
